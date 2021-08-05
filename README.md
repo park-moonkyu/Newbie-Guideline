@@ -26,6 +26,7 @@
   * [Network](#network)
   * [Web](#web)
   * [Database](#database)
+  * [Cloud] (#cloud)
 - [Professional Technique](#professional-technique)
   * [Android Application](#android-application)
   * [iOS Application](#ios-application)
@@ -305,6 +306,11 @@ Swift는 안전성, 성능, 소프트웨어 디자인 패턴에 대한 현대적
 * [Real MySQL](http://www.yes24.com/Product/Goods/6960931) : 데이터베이스를 학습함에 있어서 DBMS와 SQL 학습은 필수불가결합니다. 해당 서적은 세계에서 가장 많이 쓰이는 RDBMS인 MySQL을 국내에서 가장 상세하게 설명한 책입니다. 다만 굉장히 상세하고 실전적이라 처음 데이터베이스를 공부하는 분에게는 조금 버거울 수 있습니다. 그런 분들은 [모두의 SQL](http://www.yes24.com/Product/Goods/64434562)같은 입문서를 한번 빠르게 보거나 인터넷에 있는 쿼리문 예제들을 실습해보며 쿼리문을 조금 익히고 해당 서적을 보는 것을 추천합니다.
 * [파워 오브 데이터베이스](http://www.yes24.com/Product/Goods/69775589) : 세계적으로 유명한 데이터 베이스 설계 지침서인 '가장 쉬운 데이터베이스 설계'의 개정판 입니다. 이 서적은 특정한 DBMS나 SQL에 종속된 내용이 아닌 데이터베이스를 어떻게 설계하고 이용해야 하는 지에 대한 가이드를 잡아줍니다. 즉, 데이터베이스를 공부해본 적이 있어서 DBMS를 사용할 줄 아는 분이 데이터베이스를 어떻게 설계해야하는 지에 대하여 학습할 때 굉장히 추천드립니다.
 * [데이터베이스 인터널스](http://www.yes24.com/Product/Goods/97015247) : 읽어보지 못한 서적이지만 초고수분들이 해당 서적으로 스터디하는 것을 목격하여 추가해봅니다. 읽어보신 분들의 PR을 기다리겠습니다.
+
+### Cloud(AWS)
+안타깝게도 필자가 Cloud쪽은 경험이 없어 시니어 분들의 PR을 기다리겠습니다.
+
+
 
 ## Professional Technique
 
