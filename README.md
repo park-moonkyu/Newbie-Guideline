@@ -1,7 +1,6 @@
 # Newbie-Guideline
 
 해당 문서는 프로그래밍/개발에 입문하려는 뉴비분들(컴퓨터학과 신입생, 비전공 개발 입문자 등)과 새로운 공부 리소스를 찾으려 하는 모든 분들을 위한 지침서입니다.
-
 ## Contents
 
 - [Prerequisite](#prerequisite)
